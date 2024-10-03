@@ -5,6 +5,7 @@ J. Physiol. 171: 302-315
 
 This representation contains parameters for the standard data
 and reproduces figures 1, 3, and 6. Coded in NEURON by Michael Hines.
+
 For more information please contact michael.hines@yale.edu
 
 
