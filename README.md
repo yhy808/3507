@@ -1,14 +1,16 @@
 Frankenhaeuser, B. and Huxley, A. F. (1964)
 The action potential in the myelinated nerve fibre of  Xenoupus Laevis
 as computed on the basis of voltage clamp data.
-J. Physiol. 171: 302-315
+*J. Physiol*. 171: 302-315
 
 This representation contains parameters for the standard data
 and reproduces figures 1, 3, and 6. Coded in NEURON by Michael Hines.
 
 For more information please contact michael.hines@yale.edu
 
-
+Changelog:
+----------
+2024-10: Converted readme to markdown
 
 
 
